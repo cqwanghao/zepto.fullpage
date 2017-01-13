@@ -25,7 +25,7 @@ section{
     /*line-height: 320px;*/
     color: #fff;
     text-align: center;
-    background: url(http://static.vipgogo.com/wecourse/bank_review/img/bg.jpg) no-repeat center center/100% 100%;
+    background: url(../img/bg.jpg) no-repeat center center/100% 100%;
     position: relative;
 }
 
@@ -71,7 +71,7 @@ section{
 
 /* page2 start */
 .page2 {
-    background-image: url(http://static.vipgogo.com/wecourse/bank_review/img/page2-1.jpg);
+    background-image: url(../img/page2-1.jpg);
 }
 /*.page2 .one{
     width: 88%;
@@ -765,7 +765,7 @@ section{
     margin-left: -9px;
     width: 19px;
     height: 12px;
-    background: url(http://static.vipgogo.com/wecourse/bank_review/img/arrow.png);
+    background: url(../img/arrow.png);
     background-size: 100% 100%;
     -webkit-animation: start 3s infinite linear;
     animation: start 3s infinite linear;
